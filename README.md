@@ -8,7 +8,7 @@ Outside of coding, I document my journey through videos because I like looking b
 
 ---
 
-## 🧠 Currently working on
+## Currently working on
 
 - Agentic AI & multi-agent systems
 - LLM-powered applications
@@ -18,7 +18,7 @@ Outside of coding, I document my journey through videos because I like looking b
 
 ---
 
-### ⚒️ Toolbox
+### Toolbox
 `Python` `FastAPI` `React` `PostgreSQL`
 `LangChain` `OpenAI` `Docker` `Git`
 
