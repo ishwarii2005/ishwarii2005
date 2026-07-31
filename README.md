@@ -1,22 +1,15 @@
-# heyo, i'm Ishwari 
+# heyo, i'm Ishwari
 
-A Computer Science (AI & ML) student who enjoys turning "what if..." ideas into actual products.
+I'm someone who learns by building.
 
-Lately I've been obsessed with building agentic AI systems, multimodal applications, and tools that solve real problems—not just demo projects. I love figuring things out from scratch, even if it means breaking things a dozen times before they finally work.
+Whether it's an AI agent, a computer vision project, or a full-stack application, I enjoy taking an idea from a notebook page to something people can actually interact with.
 
-Outside of coding, I document my journey through videos because I like looking back at how much I've grown (and laughing at my old projects).
+I also love documenting the process. My camera roll has almost as many debugging clips as successful demos, and honestly, I wouldn't have it any other way.
 
----
-
-## Currently working on
-
-- Agentic AI & multi-agent systems
-- LLM-powered applications
-- Computer Vision & multimodal AI
-- Shipping full-stack AI products
-- Documenting the process instead of just the result
+> Every repository here represents something I didn't know before I built it.
 
 ---
+
 
 ### Toolbox
 `Python` `FastAPI` `React` `PostgreSQL`
