@@ -60,4 +60,4 @@ Always happy to talk about AI, cool ideas, internships, hackathons, or building 
 
 📧 ishwarikamble2005@gmail.com
 
-💼 LinkedIn: linkedin.com/in/ishwarik07
+💼 LinkedIn: [linkedin.com/in/ishwarik07](https://www.linkedin.com/in/ishwarik07/)
