@@ -18,31 +18,9 @@ Outside of coding, I document my journey through videos because I like looking b
 
 ---
 
-## 🛠 Tech I enjoy using
-
-**Languages**
-
-Python • JavaScript • Java • SQL
-
-**AI**
-
-OpenAI • LangChain • RAG • Groq • Ollama • Hugging Face • YOLO
-
-**Backend**
-
-FastAPI • Flask • Node.js
-
-**Frontend**
-
-React • Vite • HTML • CSS
-
-**Databases**
-
-PostgreSQL • MySQL
-
-**Cloud & Tools**
-
-Git • GitHub • Docker • Vercel • Render • Neon • VS Code
+### ⚒️ Toolbox
+`Python` `FastAPI` `React` `PostgreSQL`
+`LangChain` `OpenAI` `Docker` `Git`
 
 ---
 
