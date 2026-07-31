@@ -1,6 +1,6 @@
 # heyo, i'm Ishwari
 
-I'm someone who learns by building.
+Someone who learns by building.
 
 Whether it's an AI agent, a computer vision project, or a full-stack application, I enjoy taking an idea from a notebook page to something people can actually interact with.
 
