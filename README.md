@@ -8,13 +8,13 @@ Outside of coding, I document my journey through videos because I like looking b
 
 ---
 
-## 🌱 Currently working on
+## 🧠 Currently working on
 
-- 🤖 Agentic AI & multi-agent systems
-- 🧠 LLM-powered applications
-- 👀 Computer Vision & multimodal AI
-- ⚡ Shipping full-stack AI products
-- 📹 Documenting the process instead of just the result
+- Agentic AI & multi-agent systems
+- LLM-powered applications
+- Computer Vision & multimodal AI
+- Shipping full-stack AI products
+- Documenting the process instead of just the result
 
 ---
 
